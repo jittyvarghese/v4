@@ -2,11 +2,11 @@ module.exports = {
   email: 'jittyvarghese@gmail.com',
 
   socialMedia: [
-     {
+    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/jitty-varghese-b1341823/',
     },
-        {
+    {
       name: 'Instagram',
       url: 'https://www.instagram.com/jittyvarghese_/',
     },
@@ -14,7 +14,7 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/jittyvarghese',
     },
-   
+
     // {
     //   name: 'Codepen',
     //   url: 'https://codepen.io/bchiang7',
@@ -35,10 +35,10 @@ module.exports = {
       name: 'Experience',
       url: '/#jobs',
     },
-    {
-      name: 'Work',
-      url: '/#projects',
-    },
+    // {
+    //   name: 'Work',
+    //   url: '/#projects',
+    // },
     {
       name: 'Contact',
       url: '/#contact',
