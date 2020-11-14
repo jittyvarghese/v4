@@ -141,18 +141,17 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>Hello! I'm Jitty, a Web Developer based in Kochi, Kerala.</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              I enjoy creating things that live on the internet. My goal is to always build products that provide
+              pixel-perfect, performance oriented experiences.
             </p>
-
+{/* update the website link for Chenda Media */}
             <p>
               Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
+              <a href="https://auckland.op.ac.nz/" target="_blank">Otago Polytechnic, Auckalnd, NewZealand</a>, I joined the
+              marketing team at <a target="_blank" href="https://www.chendamedia.com/">Chenda Media</a> where I work
               on a wide variety of interesting and meaningful projects on a daily basis.
             </p>
 

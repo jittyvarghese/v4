@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'Jitty Varghese',
     description:
-      'Brittany Chiang is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Jitty Varghese is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    siteUrl: 'https://jittyvarghese.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'Jitty Varghese',
+        short_name: 'JittyVarghese',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

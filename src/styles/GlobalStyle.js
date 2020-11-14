@@ -7,7 +7,7 @@ const GlobalStyle = createGlobalStyle`
   ${Fonts};
 
   :root {
-    --dark-navy: #020c1b;
+     --dark-navy: #020c1b;
     --navy: #0a192f;
     --light-navy: #172a45;
     --lightest-navy: #303C55;
@@ -16,7 +16,8 @@ const GlobalStyle = createGlobalStyle`
     --light-slate: #a8b2d1;
     --lightest-slate: #ccd6f6;
     --white: #e6f1ff;
-    --green: #64ffda;
+    --green: #F28460;
+    // #F28460 - orange #64ffda - green
     --green-tint: rgba(100, 255, 218, 0.1);
 
     --font-sans: 'Calibre', 'San Francisco', 'SF Pro Text', -apple-system, system-ui, sans-serif;
@@ -108,6 +109,14 @@ const GlobalStyle = createGlobalStyle`
     grid-template-rows: 1fr auto;
     grid-template-columns: 100%;
   }
+  body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none; 
+  scrollbar-width: none; 
+}
 
   main {
     margin: 0 auto;

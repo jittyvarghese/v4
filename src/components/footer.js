@@ -104,9 +104,12 @@ const Footer = () => {
         </ul>
       </StyledSocialLinks>
 
+      {/* make 2020 dynamic */}
+
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/bchiang7/v4">
-          <div>Designed &amp; Built by Brittany Chiang</div>
+        <p>Copyright © 2020</p>
+        <a target="_blank" href="https://github.com/jittyvarghese/v4">
+          <div>Inspired from Brittany Chiang. Click for repo</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
