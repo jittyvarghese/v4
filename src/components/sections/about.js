@@ -150,8 +150,8 @@ const About = () => {
 {/* update the website link for Chenda Media */}
             <p>
               Shortly after graduating from{' '}
-              <a href="https://auckland.op.ac.nz/" target="_blank">Otago Polytechnic, Auckalnd, NewZealand</a>, I joined the
-              marketing team at <a target="_blank" href="https://www.chendamedia.com/">Chenda Media</a> where I work
+              <a href="https://auckland.op.ac.nz/" target="_blank" rel="noopener noreferrer">Otago Polytechnic, Auckalnd, NewZealand</a>, I joined the
+              marketing team at <a rel="noopener noreferrer" target="_blank" href="https://www.chendamedia.com/" rel="noopener noreferrer">Chenda Media</a> where I work
               on a wide variety of interesting and meaningful projects on a daily basis.
             </p>
 
