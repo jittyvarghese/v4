@@ -7,7 +7,7 @@ range: 'September 2016 - August 2018'
 url: 'https://starry.com/'
 ---
 
-- Managed and worked closely with the digital marketing team to improve the companies online prescence
+- Managed and worked closely with the digital marketing team to improve the companies online presence
 
 - Conducted research to analyze market trends, customer behavior, and prepared reports by collecting, analyzing, and summarizing data
 
