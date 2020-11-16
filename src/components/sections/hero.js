@@ -52,7 +52,8 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      A self-taught Full Stack Developer with  a passion for coding and possessing hands-on experience in all levels of Web Development from development to deployment and everything in between.
+      A self-taught Full Stack Developer with a passion for coding and possessing hands-on
+      experience in all levels of the Web from development to deployment and everything in between.
     </p>
   );
   const five = (
