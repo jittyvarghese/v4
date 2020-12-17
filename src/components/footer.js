@@ -109,7 +109,7 @@ const Footer = () => {
       <StyledCredit tabindex="-1">
         <p>Copyright © 2020</p>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/jittyvarghese/v4">
-          <div>Inspired from Brittany Chiang. Click for repo</div>
+          <div>Inspired from Brittany. Click for repo</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
